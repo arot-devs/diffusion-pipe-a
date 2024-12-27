@@ -20,6 +20,8 @@ max_ar = 2.0
 # Total number of aspect ratio buckets, evenly spaced (in log space) between min_ar and max_ar.
 num_ar_buckets = 7
 
+# ar_buckets = [[768, 768], [704, 896], [640, 1024], [576, 1152], [896, 704], [1024, 640], [1152, 576]]
+
 # Can manually specify ar_buckets instead of using the range-style config above.
 # Each entry can be width/height ratio, or (width, height) pair. But you can't mix them, because of TOML.
 # ar_buckets = [[512, 512], [448, 576]]
