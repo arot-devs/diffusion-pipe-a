@@ -345,7 +345,7 @@
   },
   "88": {
     "inputs": {
-      "lora_name": "hunyuan8x/TMP_LORA_LINK/epoch141/adapter_model.safetensors",
+      "lora_name": "hunyuan8x/TMP_LORA_LINK/epoch214/adapter_model.safetensors",
       "strength_model": 1,
       "model": [
         "90",
